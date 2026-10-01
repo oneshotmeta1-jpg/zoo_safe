@@ -1,0 +1,105 @@
+[2026-09-30 12:04:12] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_120412_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 12:06:14] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_120614_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 13:43:22] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_134322_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:35:46] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_143546_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:36:26] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_143626_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:37:19] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_143719_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:38:13] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_143813_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:39:16] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_143916_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:40:40] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_144040_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:41:57] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_144157_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:43:06] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_144306_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:44:21] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_144421_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:45:37] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_144537_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:47:01] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_144701_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:48:11] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_144811_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:49:19] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_144919_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:50:16] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_145016_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:51:08] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_145108_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:52:26] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_145226_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:53:40] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_145340_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:54:46] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_145446_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:55:57] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_145557_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:57:09] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_145709_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:58:23] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_145823_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 14:59:38] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_145938_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 15:00:55] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_150055_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 15:01:46] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_150146_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 15:02:38] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_150238_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 15:03:57] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_150357_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 15:05:10] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_150510_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 15:06:31] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_150631_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 15:07:41] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_150741_id9000.jpg
+------------------------------------------------------------
+[2026-09-30 15:08:39] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20260930_150839_id9000.jpg
+------------------------------------------------------------
+[2026-10-01 09:59:27] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20261001_095927_id9000.jpg
+------------------------------------------------------------
+[2026-10-01 09:59:58] [ZOO_CAM_GIRAFFE_01] track=9000 person → 위험구역을 벗어났으니 다른 CCTV를 확인하세요
+  event=ZONE_EXIT_DANGER severity=HIGH snapshot=snapshots/alert_20261001_095958_id9000.jpg
+------------------------------------------------------------
